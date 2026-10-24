@@ -1,4 +1,4 @@
-a = 20
+a = 21
 b = 20
 res = a + b
 print("hello world")
