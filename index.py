@@ -1,6 +1,7 @@
 a = 21
 b = 20
-res = a + b
+c = 7
+res = a + b +c
 print("hello world")
 print ("nishanth",res)
 print("new version")
