@@ -1,5 +1,5 @@
-a = 10
-b = 12
+a = 20
+b = 20
 res = a + b
 print("hello world")
 print ("nishanth",res)
